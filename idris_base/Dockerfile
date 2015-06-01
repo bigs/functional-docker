@@ -1,4 +1,4 @@
-FROM bigs/haskell
+FROM dtcb/haskell
 MAINTAINER cole brown
 
 RUN apt-get -y install libtinfo-dev
